@@ -1,2 +1,4 @@
 .venv
 .idea
+my_site/blog/__pycache__/
+my_site/my_site/__pycache__/
